@@ -1,12 +1,13 @@
 
-"""Lesson 1.4: Build an AI prompt from business input."""
 
-# Set sample business details automatically.
-name = "Malik Bilal"
-business = "imported electronics gadgets business"
-problem = "delays in imported stock and repeated customer questions"
+"""Create an AI prompt using details entered by a business owner."""
 
-# Build the AI prompt using an f-string.
+# Real business details help the AI provide useful recommendations.
+name = input("Your name: ")
+business = input("Business type: ")
+problem = input("Biggest problem: ")
+
+# A specific problem helps the AI suggest relevant business solutions.
 prompt = f"Suggest 3 AI solutions for a {business} that struggles with {problem}."
 
 print(f"\nWelcome, {name}!")
