@@ -1,8 +1,6 @@
-\# python-ai
 
-Hi, I am Malik Bilal.
+# Python AI Learning
 
-I am taking the course: Python for AI.
+I am Malik, an MBA Executive student and online tech gadgets business owner.
 
-My goal is to become an AI Agent Developer.
-
+I am learning Applied AI to build practical AI solutions for real business problems.
