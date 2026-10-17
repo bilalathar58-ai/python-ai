@@ -1,29 +1,17 @@
+## Module 1 Project: AI Prompt Kit
 
-# Python AI Learning
+This project generates three AI prompts for a local electronics business: marketing, customer service, and business growth. It uses Python f-strings to personalize prompts based on business details.
 
-**Name:** Malik Bilal  
-**Course:** Python for AI  
-**Module:** Python Basics for GenAI and Agentic AI
-
-## My AI Goal
-
-I am learning Applied AI to build practical AI solutions that save time, automate business tasks, and help businesses grow.
-
-## About Me
-
-I am an MBA Executive student and an online imported tech gadgets and electronics business owner.
-
-## How to Run
-
-Run the main program using:
+### How to Run
 
 ```bash
-uv run main.py
+uv run code/project_m1_prompt_kit.py
 ```
 
-## Lessons Completed
+### Test Results
 
-- Lesson 1.1: My AI Career Intro
-- Lesson 1.2: Toolkit Proof
-- Lesson 1.3: Client-Ready Repo
-- Lesson 1.4: Business Prompt Builder
+The generated prompts were tested using Ollama with the `gemma3:1b` model. Results and evaluations are available in `docs/project-m1-results.md`.
+
+### Who Would Pay for This?
+
+Small business owners, including electronics shops, local retailers, and online sellers, could use this prompt kit to save time preparing marketing content, customer-service replies, and business growth ideas.
