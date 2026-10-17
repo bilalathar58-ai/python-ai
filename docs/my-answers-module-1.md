@@ -20,47 +20,49 @@ Q6: Hello from kimi!
 
 \## Lesson 1.2
 
-Q1:
+Q1: c
 
-Q2:
+Q2: b
 
-Q3:
+Q3: b
 
-Q4:
+Q4: b
 
-Q5:
+Q5: b
 
-Q6:
+Q6: Python 3.13.16
 
 
 
 \## Lesson 1.3
 
-Q1:
+Q1: b
 
-Q2:
+Q2: c
 
-Q3:
+Q3: b
 
-Q4:
+Q4: b
 
-Q5:
+Q5: b
 
-Q6:
+Q6: Hi, I am Ali and I will become an AI Agent Developer.
 
 
 
 \## Lesson 1.4
 
-Q1:
+Q1: c
 
-Q2:
+Q2: b
 
-Q3:
+Q3: c
 
-Q4:
+Q4: b
 
-Q5:
+Q5: c
 
-Q6:
+Q6: Age: 20
+
+201
 
